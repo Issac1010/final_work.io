@@ -4,7 +4,7 @@
 
 [team1-final-ppt.pdf](https://github.com/user-attachments/files/15739999/team1-final-ppt.pdf)
 
-**Robot final physical photo**
+**Overall photo of the robot**
 
 ![image](https://github.com/Issac1010/final_work.io/assets/143713302/a92e21f5-3b2b-467c-942e-fb0da134c50a)
 
